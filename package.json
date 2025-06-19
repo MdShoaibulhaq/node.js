@@ -1,0 +1,11 @@
+{
+  "name": "aws-nodejs-ec2-app",
+  "version": "1.0.0",
+  "description": "Sample Node.js app for EC2 deployment",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "shoaib",
+  "license": "MIT"
+}
